@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+
+
+.about-container {
+	display: flex;
+	width: 85%;
+	padding: 2%;
+	padding-top: 5%;
+	margin: 0 auto;
+	justify-content: center;
+	/*justify-content: flex-end;*/
+	font-family: 'Montserrat', sans-serif;
+}
+
+.description {
+    margin-left: 1%;
+	/*padding-top: 5%;*/
+	/*width: 28%;*/
+	width: 50%;
+	text-align: left;
+	color: #a0a0a0;
+	font-family: 'Karla', sans-serif;
+	/*margin-right: auto;
+*/	/*border: 1px solid black;*/
+}
+
+.description h2 {
+	color: #a0a0a0;
+	padding-bottom: 2%;
+	font-size: 1.6vw;
+}
+
+.description h3 {
+	color: #a0a0a0;
+	padding-bottom: 6%;
+	font-size: 1.2vw;
+}
+
+.description p {
+
+	font-weight: 300;
+	line-height: 150%
+}
+
+.intro {
+	font-weight: 400;
+	padding-bottom: 5%;
+	font-size: 1.1vw;
+}
+
+.body {
+	padding-bottom: 5%;
+	font-size: 1.1vw;
+}
+
+.email {
+	font-size: 1.1vw;
+}
+
+.email a {
+	color: #ef9135;
+	font-size: 1.1vw;
+}
+
+.profile-container{
+    margin-right: 1%;
+	width: 30%;
+	/*padding-top: 2%;*/
+	/*margin-right: auto;*/
+
+}
+
+.profile {
+	width: 100%;	
+	background: url("../images/profile.JPG") no-repeat;
+	background-size: contain;
+	height: 400px;
+	/*border: 1px solid black;*/
+}

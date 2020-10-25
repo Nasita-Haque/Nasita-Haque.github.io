@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	display: flex;
+	width: 85%;
+	padding: 2%;
+	margin: 0 auto;
+	/*border: 1px solid black;*/
+}
+
+.caption {
+	position: absolute;
+	background-color: transparent;
+	padding-left: 5%;
+	padding-top: 4%;
+	width:30%;
+	font-family: 'Karla', sans-serif;
+	font-size: 1.6vw;
+	/*font-size: 1.5em;*/
+	color: white;
+	font-weight: 50;
+	text-align: center;
+}
+
+.image {
+	width: 100%;	
+	background: url("../images/bike-bg.jpg") no-repeat;
+	background-size: contain;
+	height: 750px;
+	/*border: 1px solid black;*/
+}

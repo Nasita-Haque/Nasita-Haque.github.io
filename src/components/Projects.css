@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+
+.project-container {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	width: 85%;
+	padding: 2%;
+	margin: 0 auto;
+	font-family: 'Karla', sans-serif;
+	font-size: 1.6vw;
+	color: #a0a0a0;
+	text-align: center;
+}
+
+h3 {
+	padding-bottom: 5%;
+}
+
+img {
+	height: 100%;
+    width: 50%;
+}
+
+.title {
+  text-align: center;
+  display: block;
+  padding-bottom: 5%;
+  font-size: 2vw;
+}
