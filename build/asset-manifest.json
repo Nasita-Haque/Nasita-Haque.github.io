@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f3721b8e.chunk.css",
-    "main.js": "/portfolio/static/js/main.aa619a2e.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.aa619a2e.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.9adcde90.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.9adcde90.js.map",
-    "static/js/2.eee1dddc.chunk.js": "/portfolio/static/js/2.eee1dddc.chunk.js",
-    "static/js/2.eee1dddc.chunk.js.map": "/portfolio/static/js/2.eee1dddc.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "static/css/main.f3721b8e.chunk.css.map": "/portfolio/static/css/main.f3721b8e.chunk.css.map",
-    "static/js/2.eee1dddc.chunk.js.LICENSE.txt": "/portfolio/static/js/2.eee1dddc.chunk.js.LICENSE.txt",
-    "static/media/Home.css": "/portfolio/static/media/bike-bg.f5708dc9.jpg",
-    "static/media/covered-thumbnail.0a75302b.png": "/portfolio/static/media/covered-thumbnail.0a75302b.png",
-    "static/media/covered.1eded7a9.jpg": "/portfolio/static/media/covered.1eded7a9.jpg",
-    "static/media/greeneco-thumbnail.6605567e.png": "/portfolio/static/media/greeneco-thumbnail.6605567e.png",
-    "static/media/greeneco.aa3f7db9.jpg": "/portfolio/static/media/greeneco.aa3f7db9.jpg",
-    "static/media/AboutMe.css": "/portfolio/static/media/profile.bec89e04.JPG",
-    "static/media/travlr-thumbnail.551c4a3f.png": "/portfolio/static/media/travlr-thumbnail.551c4a3f.png",
-    "static/media/travlr.45dafb03.jpg": "/portfolio/static/media/travlr.45dafb03.jpg"
+    "main.css": "/static/css/main.632acde1.chunk.css",
+    "main.js": "/static/js/main.a4b4a3ef.chunk.js",
+    "main.js.map": "/static/js/main.a4b4a3ef.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c2f24511.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c2f24511.js.map",
+    "static/js/2.2a65474f.chunk.js": "/static/js/2.2a65474f.chunk.js",
+    "static/js/2.2a65474f.chunk.js.map": "/static/js/2.2a65474f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.632acde1.chunk.css.map": "/static/css/main.632acde1.chunk.css.map",
+    "static/js/2.2a65474f.chunk.js.LICENSE.txt": "/static/js/2.2a65474f.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/static/media/bike-bg.f5708dc9.jpg",
+    "static/media/covered-thumbnail.0a75302b.png": "/static/media/covered-thumbnail.0a75302b.png",
+    "static/media/covered.1eded7a9.jpg": "/static/media/covered.1eded7a9.jpg",
+    "static/media/greeneco-thumbnail.6605567e.png": "/static/media/greeneco-thumbnail.6605567e.png",
+    "static/media/greeneco.aa3f7db9.jpg": "/static/media/greeneco.aa3f7db9.jpg",
+    "static/media/AboutMe.css": "/static/media/profile.bec89e04.JPG",
+    "static/media/travlr-thumbnail.551c4a3f.png": "/static/media/travlr-thumbnail.551c4a3f.png",
+    "static/media/travlr.45dafb03.jpg": "/static/media/travlr.45dafb03.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9adcde90.js",
-    "static/js/2.eee1dddc.chunk.js",
-    "static/css/main.f3721b8e.chunk.css",
-    "static/js/main.aa619a2e.chunk.js"
+    "static/js/runtime-main.c2f24511.js",
+    "static/js/2.2a65474f.chunk.js",
+    "static/css/main.632acde1.chunk.css",
+    "static/js/main.a4b4a3ef.chunk.js"
   ]
 }
