@@ -9,14 +9,14 @@ function Projects (){
 	return (
 		<div className="project-container">
 			<Link to="/greeneco" > <img src={greenecothumbnail} alt="Green Eco project" />
-				<div className="title"> GREEN ECO</div>  
+				<div className="title"> GREEN ECO</div>  			
 			</Link>
-			<a href="/#travlr"> <img src={travlrthumbnail} alt="TRAVLR project" />
-				<div className="title">TRAVLR</div> 
-			</a>
-			<a href="/#covered"> <img src={coveredthumbnail} alt="Covered project" />
-				<div className="title"> COVERED</div>
-			</a>
+			<Link to="/travlr" > <img src={travlrthumbnail} alt="TRAVLR project" />
+				<div className="title"> TRAVLR</div>  
+			</Link>
+			<Link to="/covered" > <img src={coveredthumbnail} alt="Covered project" />
+				<div className="title"> COVERED</div>  
+			</Link>
 		</div>
 	)
 }
