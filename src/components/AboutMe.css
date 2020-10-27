@@ -63,9 +63,11 @@
 	font-size: 1.1vw;
 }
 
+
 .profile-container{
     margin-right: 1%;
 	width: 30%;
+	border-radius: 5%/10%; 
 	/*padding-top: 2%;*/
 	/*margin-right: auto;*/
 
@@ -75,7 +77,8 @@
 	width: 100%;	
 	background: url("../images/profile.JPG") no-repeat;
 	background-size: contain;
-	height: 400px;
+	height: 500px;
+	/*height: 36vh;*/
 	/*border: 1px solid black;*/
 }
 
@@ -93,5 +96,80 @@
 	padding: 2%;
 	border: 1px solid #ef9135;;
 	color: #ef9135;
-	border-radius: 5%/10%; 
+	/*border-radius: 5%/10%; */
 }
+
+ @media screen and (max-width: 500px) {   
+	.about-container {
+		display: flex;
+		flex-direction: column;
+		/*border: 1px solid black;*/
+		align-items: center;
+	}
+
+	.profile-container {
+	    margin-right: -1%; /*need*/
+		width: 100%;
+		margin-bottom: 5%;
+		margin-top: -4%; /*quick fix*/
+	}
+
+	.profile {
+		background: url("../images/profile.JPG") no-repeat;
+		background-size: cover;
+		background-position:center;
+		/*height: 40vh;*/
+		/*width: 60vw;*/
+
+	}
+
+	.description {
+		text-align: center;
+		width: auto;
+	}
+
+	.description h2 {
+		padding-bottom: 2%;
+		font-size: 3.6vw;
+	}
+
+	.description h3 {
+		padding-bottom: 6%;
+		font-size: 3.2vw;
+	}
+
+	.description p {
+		font-weight: 300;
+		line-height: 150%
+	}
+
+	.intro {
+		font-weight: 400;
+		padding-bottom: 5%;
+		font-size: 3.1vw;
+	}
+
+	.body {
+		padding-bottom: 5%;
+		font-size: 3.1vw;
+	}
+
+	.email {
+		font-size: 3.1vw;
+	}
+
+	.email a {
+		font-size: 3.1vw;
+	}
+	
+	.button-container {
+		padding-bottom: 3%;
+	}
+
+	.resume {
+		font-size: 3.1vw;
+	}
+
+
+}
+

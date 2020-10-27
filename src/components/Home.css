@@ -19,7 +19,7 @@
 	background-color: transparent;
 	padding-left: 5%;
 	padding-top: 4%;
-	width:30%;
+	width: 30%;
 	font-family: 'Karla', sans-serif;
 	font-size: 1.6vw;
 	/*font-size: 1.5em;*/
@@ -53,6 +53,7 @@
  @media screen and (max-width: 500px) {   
     .bike-image {
         content: url("../images/bike-bg-400.png") !important;
+        padding-bottom:3%;
     } 
  }
 
