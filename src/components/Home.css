@@ -48,6 +48,10 @@
     .bike-image {
         content: url("../images/bike-bg-770.png") !important;
     } 
+     .caption {
+    	font-size: 2vw;
+    	width: 35%;
+    }
 }
 
  @media screen and (max-width: 500px) {   
@@ -55,6 +59,13 @@
         content: url("../images/bike-bg-400.png") !important;
         padding-bottom:3%;
     } 
+
+    .caption {
+    	font-size: 3vw;
+    	width: 30%;
+    	padding-top: 6%;
+    	padding-left: 7%;
+    }
  }
 
 
