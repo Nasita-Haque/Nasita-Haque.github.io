@@ -9,6 +9,7 @@
 	padding-top: 5%;
 	margin: 0 auto;
 	justify-content: center;
+		padding-bottom: -10%;
 	/*justify-content: flex-end;*/
 	font-family: 'Montserrat', sans-serif;
 }
@@ -77,4 +78,21 @@
 	background-size: contain;
 	height: 400px;
 	/*border: 1px solid black;*/
+}
+
+.button-container {
+	margin-top: 5%;
+}
+
+.button-container a, button:hover {
+	cursor: pointer;
+	color: #ef9135;
+}
+
+.resume {
+	font-size: 1.1vw;
+	padding: 2%;
+	border: 1px solid #ef9135;;
+	color: #ef9135;
+	border-radius: 5%/10%; 
 }

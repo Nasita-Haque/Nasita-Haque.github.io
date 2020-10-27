@@ -11,7 +11,7 @@ function AboutMe (){
 				<h2>Hi there!</h2> 
 				<h3>Thanks for visiting my site.</h3>
 				<p className="intro"> 
-					I'm Nasita, a web developer turned aspiring user interface designer. 
+					I'm Nasita, a user interface designer with web development experience. 
 				</p>
 				<p className="body"> 
 					My background in web development has taught me to prioritze the users needs and create simple solutions through a design thinking mentality. 
@@ -20,6 +20,11 @@ function AboutMe (){
 				<p className="email">
 					I would love to connect at <a href = "mailto: nasita.haque@gmail.com">nasita.haque@gmail.com</a>.
 				</p>
+				<div className="button-container">
+					<a href = "https://drive.google.com/file/d/1zGZJeuNq9KjRWXtn0mTYSOrvkYNdHJU8/view" >
+						<button className="resume">View Resume</button>
+					</a>
+				</div>
 			</div>
 		</div>
 	)

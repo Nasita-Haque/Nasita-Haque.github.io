@@ -5,6 +5,7 @@
 	justify-content: center;
 	flex-direction: column;
 	width: 85%;
+	/*width: 85%;*/
 	padding: 2%;
 	margin: 0 auto;
 	font-family: 'Karla', sans-serif;
@@ -22,9 +23,22 @@ img {
     width: 50%;
 }
 
-.title {
+.title1 {
   text-align: center;
   display: block;
   padding-bottom: 5%;
+  font-size: 2vw;
+}
+
+.title2 {
+  text-align: center;
+  display: block;
+  padding-bottom: 5%;
+  font-size: 2vw;
+}
+
+.title3 {
+  text-align: center;
+  display: block;
   font-size: 2vw;
 }
