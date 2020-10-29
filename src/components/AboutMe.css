@@ -99,6 +99,7 @@
 	/*border-radius: 5%/10%; */
 }
 
+
  @media screen and (max-width: 500px) {   
 	.about-container {
 		display: flex;
@@ -161,7 +162,7 @@
 	.email a {
 		font-size: 3.1vw;
 	}
-	
+
 	.button-container {
 		padding-bottom: 3%;
 	}
