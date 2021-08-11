@@ -9,7 +9,7 @@ function Footer (){
 					<a href = "https://twitter.com/nasita_haque">TWITTER</a>
 				</li>
 				<li>
-					<a href = "https://www.linkedin.com/in/nasitahaque/">LINKEDIN</a>
+					<a href = "https://www.linkedin.com/in/nasita">LINKEDIN</a>
 				</li>
 			</ul>
 		</div>
