@@ -18,7 +18,7 @@ function AboutMe (){
 					As a result, I learned about the importance of creating practical designs through a coding perspective which is a valuable asset in creating future designs. I’ve always focused on the user through technology which is why I want to focus my passion on bringing people a better technological experience through an empathic and human approach.
 				</p>
 				<p className="email">
-					I would love to connect at <a href = "mailto: nasita.haque@gmail.com">nasita.haque@gmail.com</a>, <a href = "https://twitter.com/nasita_haque">Twitter</a> or via <a href = "https://www.linkedin.com/in/nasita/">LinkedIn</a>.
+					I would love to connect at <a href = "mailto: nasita.haque@gmail.com">nasita.haque@gmail.com</a>, <a href = "https://twitter.com/nasita_haque">Twitter</a> or via <a href = "https://www.linkedin.com/in/nasita">LinkedIn</a>.
 				</p>
 				<div className="button-container">
 					<a href = "https://drive.google.com/file/d/1ca7SjOOyMQsCeus1_Ry-TjfD03rHHCGS/view" >
