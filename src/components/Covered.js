@@ -1,5 +1,5 @@
 import React from 'react';
-import covered from "../images/covered.jpg";
+import covered from "../images/covered.png";
 import './Covered.css'
 
 function Covered() {
